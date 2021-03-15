@@ -1,0 +1,18 @@
+div p{
+     color:aqua;
+}
+
+div>p{
+    color:blueviolet;
+}
+
+li{
+   padding :2px;
+   color:chartreuse;
+
+
+}
+body{
+    margin:0;
+
+}
